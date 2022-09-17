@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-app-dd59f": {
+      "hosting": {
+        "app": [
+          "fir-app-dd59f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-app-dd59f"
+  }
+}
